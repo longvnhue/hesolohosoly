@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitEF", "gitEF\gitEF.csproj", "{DB4CF98B-15D4-47FB-A9BA-6A8C95F777AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4CF98B-15D4-47FB-A9BA-6A8C95F777AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4CF98B-15D4-47FB-A9BA-6A8C95F777AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4CF98B-15D4-47FB-A9BA-6A8C95F777AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4CF98B-15D4-47FB-A9BA-6A8C95F777AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF1782A-1AD4-4DAC-A5C0-A4EB5B5217D4}
+	EndGlobalSection
+EndGlobal
